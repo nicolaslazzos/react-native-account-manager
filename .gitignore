@@ -1,0 +1,16 @@
+# Android/IntelliJ
+build/
+.idea
+.gradle
+local.properties
+*.iml
+
+# Root project gradle
+gradle
+gradlew
+gradlew.bat
+
+# node.js
+node_modules/
+npm-debug.log
+yarn-error.log
